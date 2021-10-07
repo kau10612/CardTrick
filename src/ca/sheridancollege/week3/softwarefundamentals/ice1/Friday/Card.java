@@ -8,6 +8,7 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 /**
  *
  * @author Ronak
+ *@modifier Ramneek Kaur
  */
 public class Card {
 
