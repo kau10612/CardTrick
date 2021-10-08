@@ -7,6 +7,7 @@ import java.util.Scanner;
  * @author Ronak
  * @modifier Ramneek Kaur Student Id: 991631069
  */
+//changes done in github
 //changes done for fetch and merge
 public class CardTrick {
 
