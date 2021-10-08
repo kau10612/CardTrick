@@ -20,7 +20,7 @@ public class CardTrick {
             //c.setSuit(Card.SUITS[insert call to random number between 0-3 ])
             c.setSuit(Card.SUITS[(int) (Math.random() * 4) + 0]);
 
-            magicHand[i] = c;
+            magicHand[i] = c; //Add c to the user
         }
 
         //insert code to ask user for Card value and suit, create their card
