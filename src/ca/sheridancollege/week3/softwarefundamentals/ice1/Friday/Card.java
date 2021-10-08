@@ -11,6 +11,7 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
  * @modifier Ramneek Kaur 
  * Student Id: 991631069
  */
+//changes done in github
 //changes done in fetch and merge
 public class Card {
 
